@@ -31,8 +31,9 @@ The website is deployed on Netlify and automatically updates when changes are pu
 
 ## Contact
 
-- Email: o.zhailybay@gmail.com
-- LinkedIn: [olzhas-zhailybay-7a109a333](https://www.linkedin.com/in/olzhas-zhailybay-7a109a333)
+- 📧 Email: [o.zhailybay@gmail.com](mailto:o.zhailybay@gmail.com)
+- 💼 LinkedIn: [olzhas-zhailybay-7a109a333](https://www.linkedin.com/in/olzhas-zhailybay-7a109a333)
+- 🐙 GitHub: [@ozhailybay](https://github.com/ozhailybay)
 
 ---
 
