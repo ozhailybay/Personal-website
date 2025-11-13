@@ -25,7 +25,9 @@ Modern, minimalist portfolio website showcasing my journey as a young founder, i
 
 ## Live Demo
 
-Visit the live site at: `https://yourusername.github.io/olzhas-portfolio/`
+🌐 **Live Website**: [personalwebsitezh.netlify.app](https://personalwebsitezh.netlify.app)
+
+The website is deployed on Netlify and automatically updates when changes are pushed to the main branch.
 
 ## Contact
 
